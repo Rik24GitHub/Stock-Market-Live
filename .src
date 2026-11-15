@@ -1,0 +1,4 @@
+cd nifty-app
+git add -A
+git commit -m "add src folder"
+git push
